@@ -1,1 +1,18 @@
-/*  your css code here. If applicable */
+  body {
+            font-family: Arial, sans-serif;
+        }
+
+        #animal-photos {
+            text-align: center;
+        }
+
+        #photo-heading {
+            font-size: 24px;
+            margin-top: 20px;
+        }
+
+        .animal-image {
+            margin: 10px;
+            border: 1px solid #ccc;
+            padding: 5px;
+        }
